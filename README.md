@@ -1,6 +1,7 @@
 ### Hello, World 👋 🌍
 
-- 👷🏻‍♂️💻 I’m currently working on a disc golf stats startup with three other terrific disc golfers
+- 💻 I'm currently developing awesome media applications with Innovar Solutions
+- 💻 I’m currently working on a fun disc golf stats website with three other terrific disc golfers
 - 📚 I’m currently learning something new about something, it never ends
   - python automation scrapy/playwright
   - tailwindcss (oh, God, thank you!)
